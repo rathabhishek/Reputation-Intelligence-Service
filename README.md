@@ -1,2 +1,2 @@
 # Reputation-Intelligence-Service
-Feedback analytics engine for multi-channel consumer data. Features automated sentiment scoring, asynchronous data ingestion designed for real-time brand reputation monitoring.
+Feedback analytics engine for multi-channel consumer data. Features automated sentiment scoring, asynchronous data ingestion designed for real-time brand reputation monitoring. Built a restaurant rating model to provide an average score based on sentiment analysis of text review feedbacks, normalized score for restaurant facilities, and Yelp customers' default ratings.
